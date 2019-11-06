@@ -13,6 +13,7 @@ This is a classic web service.
 To lauch the server
 
 ```
+yarn install
 yarn start
 ```
 
