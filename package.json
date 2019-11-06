@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Jean-Philippe BLOND <jpblond@hubside.com>",
   "license": "MIT",
+  "engines": {
+    "node": ">=12.00"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "node-fetch": "^2.6.0"
